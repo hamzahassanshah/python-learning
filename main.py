@@ -1,1 +1,1 @@
-print("Hello GitHub from Ubuntu!")
+print("Learning Git & GitHub!")
